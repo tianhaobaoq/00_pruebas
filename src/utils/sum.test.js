@@ -7,7 +7,7 @@ describe('Función suma', ()=> {
     })
     
     it('Suma debe retornar correctamente dos numeros positivos', () => {
-        expect(sum(3,4)).toBe(26)
+        expect(sum(3,4)).toBe(7)
     })
     
 });
